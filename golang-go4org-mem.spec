@@ -10,7 +10,7 @@ Version:                0
 
 %global golicenses      LICENSE
 %global godocs          README.md
-%global tag             main
+%global tag             master
 %global archivename     %{goihead}-%{tag}
 
 Name:           %{goname}
