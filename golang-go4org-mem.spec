@@ -18,7 +18,7 @@ Release:        %autorelease
 Summary:        cheap Go type to hold & operate on either a read-only []byte or string
 
 License:        MIT
-Source:         https://github.com/go4org/%{goihead}/archive/refs/heads/main.tar.gz#/%{goihead}-main.tar.gz
+Source:         https://github.com/go4org/%{goihead}/archive/refs/heads/%{tag}.tar.gz#/%{goihead}-%{tag}.tar.gz
 
 %description
 %{summary}.
